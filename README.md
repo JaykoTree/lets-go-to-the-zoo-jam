@@ -13,6 +13,8 @@ Zaa's list.
     - Introductory zone information.
     - Add in dialogue for the point system
     - Add in more 'MC' lines n yaps to acc make it feel like you yappings.
+   
+      * if you search for '#block of code' most of the blanks should show up, but can't guarantee so just skim through anyways.
 
 (Again, gonna polish it up a widdle afterwards so no pressure. It's mainly prioritising what we need done as soon as possible.)
 
