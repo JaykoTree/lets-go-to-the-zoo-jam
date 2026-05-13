@@ -7,7 +7,7 @@ My to-do list.
   - help out with anything after, if there's time (or is needed).
 
 Zaa's list.
-  - Proofread, fill in any gaps left open & final edits. (quite a few quiz gaps.)
+  - Proofread, fill in any gaps left open & final edits. Introductory to each zone aren't that strong so you can add n write to it if you'd like. (quite a few quiz gaps.)
     - Code in the background scenes and music for the zones.
     - Intro & End scripts.
     - Introductory zone information.
